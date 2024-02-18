@@ -1,2 +1,2 @@
 # About file
-Try create website
+ลองเขียนเว็บด้วย Github
